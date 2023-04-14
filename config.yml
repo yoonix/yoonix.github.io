@@ -35,7 +35,7 @@ params:
     description: |
       Hi, I'm Jon.  
       I know a few things about internet operations and I go on cruises.
-    imageUrl: "/images/profile.jpeg"
+    imageUrl: "/images/profile.png"
     imageTitle: yoonix
     # imageWidth: 120
     # imageHeight: 120
