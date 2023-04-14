@@ -1,0 +1,59 @@
+baseURL: "http://yoonix.com"
+title: Jon Villarreal
+paginate: 5
+theme: charlolamode
+copyright: © 2023 Jon Villarreal.  All rights reserved.
+
+enableRobotsTXT: true
+
+menu:
+  main:
+    - name: Blog
+      url: /blog/
+      weight: 15
+    #- name: Resume
+    #  url: /resume/
+    #  weight: 20
+    - name: Contact
+      url: /contact/
+      weight: 30
+
+params:
+  author: yoonix
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  profileMode:
+    # Disable to populate home page with 'mainSections' content
+    enabled: true
+    title: Jon Villarreal
+    description: |
+      Hi, I'm Jon.  I go on cruises and know a few things about internet operations.
+    imageUrl: "/images/profile.jpeg"
+    imageTitle: yoonix
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Resume
+        url: https://resume.yoonix.com
+  mainSections:
+    - blog
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jonvillarreal/"
+    - name: github
+      url: "https://github.com/yoonix"
+  # change favicon in images folder (icon for web tab)
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
