@@ -33,7 +33,8 @@ params:
     enabled: true
     title: Jon Villarreal
     description: |
-      Hi, I'm Jon.  I go on cruises and know a few things about internet operations.
+      Hi, I'm Jon.  
+      I go on cruises and know a few things about internet operations.
     imageUrl: "/images/profile.jpeg"
     imageTitle: yoonix
     # imageWidth: 120
