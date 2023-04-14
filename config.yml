@@ -1,10 +1,20 @@
 baseURL: "http://yoonix.com"
 title: yoonix
 paginate: 5
-theme: charlolamode
+theme: PaperMod
 copyright: © 2023 Jon Villarreal.  All rights reserved.
 
 enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-###-##
+
+
+minify:
+  disableXML: true
+  minifyOutput: true
 
 menu:
   main:
