@@ -1,5 +1,5 @@
 baseURL: "http://yoonix.com"
-title: Jon Villarreal
+title: yoonix
 paginate: 5
 theme: charlolamode
 copyright: © 2023 Jon Villarreal.  All rights reserved.
@@ -34,7 +34,7 @@ params:
     title: Jon Villarreal
     description: |
       Hi, I'm Jon.  
-      I go on cruises and know a few things about internet operations.
+      I know a few things about internet operations and I go on cruises.
     imageUrl: "/images/profile.jpeg"
     imageTitle: yoonix
     # imageWidth: 120
