@@ -20,7 +20,7 @@ Like many young patriots my age, I wanted to study computers and networking to s
 
 Not once during Jr High and High School was a class offered that would have any involvement with computers.  I can't remember using a computer 'at school' ever beyond making an ascii rocket ship fly up the screen or playing The [Oregon Trail](https://en.wikipedia.org/wiki/The_Oregon_Trail_(series)) a few times a year.  
 
-My family had an [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) (which was sweet!) but I was only allowed to use it for word processing and video games.  My father forbade me from doing much else with it out of fear I'd break it which would've destroyed his nightlife of signing on to Prodigy to look at Lotto numbers.
+My family had an [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) (which was sweet!) but I was only allowed to use it for word processing and video games.  My father forbade me from doing much else with it out of fear I'd break it which would've destroyed his nightlife of signing on to [Prodigy](https://en.wikipedia.org/wiki/Prodigy_(online_service)) to look at Lotto numbers.
 
 ## Early Years
 Inside two years of getting that computer (a Compaq Presario 486 DX2/50!) for graduation I was on my second ‘tech’ job.  [Building a Dial-Up ISP from the ground up](https://web.archive.org/web/20040131221739/http://www.grin.net/news/) with just one other guy.  I handled most of the technical side of things and he handled virtually all of the business related matters.  As we grew, we merged with another small ISP like us.
