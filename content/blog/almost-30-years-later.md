@@ -14,14 +14,14 @@ For me, it all started in the mid 1990s, right after high school graduation.  I 
 
 [WarGames](https://en.wikipedia.org/wiki/WarGames).
 
-I was not a naturally gifted athlete and the Space Shuttle exploded.  
+I was not a naturally gifted athlete and the [Space Shuttle exploded](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster) live on tv.
 
-Not once during Jr High and High School was a class offered that would have any involvement with computers.  My family had an Amiga 500 (which was sweet!) but I was only allowed to use it for word processing and video games.  My father forbade me from doing much else with it.
+Not once during Jr High and High School was a class offered that would have any involvement with computers.  My family had an Amiga 500 (which was sweet!) but I was only allowed to use it for word processing and video games.  My father forbade me from doing much else with it out of fear I'd break it.
 
 ## Early years
-Within a year and a half of getting that computer for graduation, I was on my second ‘tech’ job.  Building a dial-up ISP from scratch with just one other guy.  I handled most of the technical side of things and he handled virtually all of the business.
+Within a year and a half of getting that computer (a 486 DX2/50!) for graduation I was on my second ‘tech’ job.  Building a dial-up ISP from scratch with just one other guy.  I handled most of the technical side of things and he handled virtually all of the business.  My first was answering tech-support phone calls.  That sucked.  It still does.
 
-I actively participated in many of the popular technical mailing lists and news groups (USENET) of the time, primarily related to FreeBSD and BSD/OS (a former commercial BSD-based offering).  I even had a small amount of C code (I’m not a programmer!) committed to the FreeBSD code base to add a trivial feature.
+Early on I was an active participant in many of the popular technical mailing lists and news groups (USENET) of the time, primarily related to FreeBSD and [BSD/OS](https://en.wikipedia.org/wiki/BSD/OS).  I even had a small amount of C code (I’m not a programmer!) committed to the FreeBSD code base to add a trivial feature to the base OS.
 
 I was heavily involved in the Quake / QuakeWorld CTF (Capture the Flag) communities when that game was the hottest thing around.  I was an active member in a fairly well-known Quake Clan that released a professional-quality map pack to the community free of charge.  I was the ‘sysadmin’ for the Clan, hosting our community-focused strategy and training website until that site became the part of a much larger commercial endeavor.
 
@@ -33,6 +33,6 @@ Professionally, I spent a lot of time on ServerFault over the years.  I love the
 ## Today
 I’ve actively spent over 25 years of my life online and I’m a ghost!  Doing web searches for my name, the handles I’ve used over the years, even my own email address lead to almost nothing related to me.  It’s as if I was never here.
 
-Well, I hope to change that.
+I hope to change that.
 
 Welcome to my blog.
