@@ -39,5 +39,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Hugo build lock file
+# Hugo related
 .hugo_build.lock
+public/*
