@@ -10,15 +10,13 @@ ShowToc: false
 
 It’s hard for me to believe that it's been almost 30 years since I began my career (and life) online.
 
-It all started in [1983](https://www.youtube.com/watch?v=Dz0DfKnG5UE).
-
-[WarGames](https://en.wikipedia.org/wiki/WarGames).
+It all started in 1983.  [WarGames](https://en.wikipedia.org/wiki/WarGames).
 
 From this point forward I was pretty sure my life would be closely intertwined with computers if I couldn’t be a professional baseball player or an astronaut.
 
 Like many young patriots my age, I wanted to study computers and networking to save the world from [Global Thermonuclear War](https://youtu.be/LD2MJ5_SvUw).  The fact that I was not a naturally gifted athlete and the [Space Shuttle exploded](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster) live on tv had nothing whatsoever to do with my decision.
 
-Not once during Jr High and High School was a class offered that would have any involvement with computers.  I can't remember using a computer 'at school' ever beyond making an ascii rocket ship fly up the screen or playing The [Oregon Trail](https://en.wikipedia.org/wiki/The_Oregon_Trail_(series)) a few times a year.  
+Not once during Jr High and High School was a class offered that would have any involvement with computers.  I can't remember using a computer 'at school' ever beyond making an ascii rocket ship fly up the screen or playing The [Oregon Trail](https://en.wikipedia.org/wiki/The_Oregon_Trail_(series)) a few times a year before I was 10.  
 
 My family had an [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) (which was sweet!) but I was only allowed to use it for word processing and video games.  My father forbade me from doing much else with it out of fear I'd break it which would've destroyed his nightlife of signing on to [Prodigy](https://en.wikipedia.org/wiki/Prodigy_(online_service)) to look at Lotto numbers.
 
