@@ -35,7 +35,7 @@ outputs:
         - JSON # is necessary
         
 params:
-  author: yoonix
+  author: "Jon Villarreal"
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: false
@@ -43,6 +43,7 @@ params:
   displayFullLangName: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
   ShowToc: true
   profileMode:
     # Disable to populate home page with 'mainSections' content
