@@ -1,5 +1,5 @@
 ---
-title: "Near Miss Ca 25"
+title: "Near Miss on CA-25"
 date: 2023-06-26T15:03:00-07:00
 draft: false
 ShowToc: false
