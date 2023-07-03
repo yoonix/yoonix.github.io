@@ -13,7 +13,7 @@ First, the latest development (the source distribution changes) doesn't surprise
 
 Killing off the clone has failed dramatically thanks to Rocky Linux and AlmaLinux coming forward to not only build replacement clones but also offer commercial support on these new clones.  This fail is entirely your fault Red Hat (IBM).  YOU took CentOS away.
 
-One of Red Hat's biggest selling points is the support offered along with the 'free software' (which they are openly calling non-paying users of freeloaders now).
+One of Red Hat's biggest selling points is the support offered along with the 'free software' (which they are [openly calling non-paying users of rebuilds freeloaders now](https://www.linkedin.com/feed/update/urn:li:activity:7080669518557052928/)).
 
 Let me just talk about my one and only experience calling Red Hat support 15 years ago, while my RHCE certification was still valid:
 
