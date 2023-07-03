@@ -31,6 +31,6 @@ After speaking with this engineer's manager, he reluctantly  listened to the pro
 
 The 'fix' was to MANUALLY DISABLE THE LOCK MANAGER AND START IT BY HAND WHEN THE OTHER SYSTEM CRASHED.  All that time, all that money, to simply replace a poorly performing NFS server with one that I had to manage by hand and we still had no high availability to speak of.
 
-Yeah, this is Red Hat. And this was long before IBM was involved.  I dread calling Red Hat support because I know I'm going to waste time, potentially be insulted, and probably not get the root problem actually addressed.
+Yeah, this is Red Hat. And this was long before IBM was involved.  I dread calling Red Hat support because I know I'm going to waste time, potentially be insulted, and probably not get the root problem actually addressed.  What does this have to do with the recent changes?  Absolutely nothing, I just thought you should know.
 
 I may be nearly 20 years late to the party but hello Ubuntu!
