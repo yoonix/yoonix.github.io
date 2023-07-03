@@ -27,7 +27,7 @@ Within ~10 minutes or so of talking to level 2, I was bumped up to an actual eng
 
 "When you pay for support that doesn't mean we're here to train you how to use this software."
 
-After speaking with this engineer's manager, he reluctantly  listened to the problem.  It turned out there was a major bug in the lock manager it was entirely incapable of managing this workload. "You are supposed to run GFS on all of your nodes, not NFS."  Yeah, then this product doesn't meet a single requirement of ours then.
+After speaking with this engineer's manager, he reluctantly  listened to the problem.  It turned out there was a major bug in the lock manager and it was entirely incapable of managing this workload. "You are supposed to run GFS on all of your nodes, not NFS."  Yeah, then this product doesn't meet a single requirement of ours then.
 
 The 'fix' was to MANUALLY DISABLE THE LOCK MANAGER AND START IT BY HAND WHEN THE OTHER SYSTEM CRASHED.  All that time, all that money, to simply replace a poorly performing NFS server with one that I had to manage by hand and we still had no high availability to speak of.
 
