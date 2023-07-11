@@ -9,7 +9,7 @@ While everyone is taking the time to crap on Red Hat (for [VERY valid reasons](h
 First, the latest development (the source distribution changes) doesn't surprise me in the slightest.  I don't know how anyone could've seen the previous 'CentOS Stream' change as anything more than one (or both) of two things:
 
 1. Kill off the clone.  This obviously brings Red Hat financial incentives in the hopes of more sales.
-2. A poorly executed attempt to turn the entire CentOS community into a free QA team for RHEL.  The lack of stability, and more importantly functionality breaking changes during point releases (I'm looking at you fapolicyd) make it clear the need for a proper QA system.  The nerve of you trying to coopt an entire community to do this for you, for free (you freeloaders),  without asking.
+2. A poorly executed attempt to turn the entire CentOS community into a free QA team for RHEL.  The lack of stability, and more importantly functionality breaking changes during point releases (I'm looking at you fapolicyd) make it clear the need for a proper QA system.  The nerve of you trying to co-opt an entire community to do this for you, for free (you freeloaders),  without asking.
 
 Killing off the clone has failed dramatically thanks to Rocky Linux and AlmaLinux coming forward to not only build replacement clones but also offer commercial support on these new clones.  This fail is entirely your fault Red Hat (IBM).  YOU took CentOS away.
 
